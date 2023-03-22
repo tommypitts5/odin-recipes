@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    color: white;
+}
+
+#maintitle {
+    text-align: center;
+    color: white;
+}
+
+.carrotspic {
+    width: 200px;
+    height:auto;
+}
+
+.strawberriespic {
+    width: 200px;
+    height: auto;
+}
+
+.mintchickenpic {
+    width: 200px;
+    height: auto;
+}
